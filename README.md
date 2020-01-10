@@ -29,7 +29,7 @@ $ curl http://localhost:8080/secret
 ```
 
 
-## How It Works
+## How It Works : 仕組み
 
 - 秘密のメッセージを書き込んだ `secret.txt` を用意しておく
 - サーバ起動後、秘密のページへのアクセスがあったら `secret.txt` の中身を取得し、`secret.txt` を削除してからレスポンスする → 秘密のメッセージが閲覧できる
