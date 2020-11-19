@@ -1,6 +1,5 @@
 {
   "name": "poc-only-once-server",
-  "version": "0.0.0",
   "description": "PoC : Users can access the page only once",
   "private": true,
   "main": "index.js",
@@ -8,7 +7,7 @@
     "start": "node index.js",
     "reset": "node -e \"require('fs').writeFileSync('./secret.txt', 'Congratulations! This text can only be seen once!\\n', 'utf8');\""
   },
-  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
   "license": "MIT",
   "homepage": "https://github.com/Neos21/poc-only-once-server#readme",
   "repository": {
