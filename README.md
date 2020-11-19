@@ -45,16 +45,6 @@ $ curl http://localhost:8080/secret
 という実装を考えていたが、1度アクセスするとサーバ上からも秘密のメッセージが削除される方がよりセキュア (？) になるかと考え、この実装に至った。
 
 
-## Author
-
-[Neo](http://neo.s21.xrea.com/)
-
-
 ## Links
 
-- [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](https://neos21.hatenablog.com/)
-- [Murga](https://neos21.hatenablog.jp/)
-- [El Mylar](https://neos21.hateblo.jp/)
-- [Neo's GitHub Pages](https://neos21.github.io/)
-- [GitHub - Neos21](https://github.com/Neos21/)
+- [Neo's World](https://neos21.net/)
